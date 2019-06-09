@@ -1,4 +1,7 @@
 # TZXDuino-Uploader
+
+NOTE: If you get a false positive malware warning you can ignore it. If this makes you nervous use the standalone zip which wont trigger a false positive. I have tried to make sure false postives have been eliminated. But let me know if you get one. 
+
 Tool to make it easier to update TZXDuino, CASduino and ArduiTape
 
 Very Simple tool to use:
