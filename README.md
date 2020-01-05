@@ -24,4 +24,4 @@ If you do not know the I2C address use an I2C scanner sketch to find out > https
 
 I'll try to keep updating it as and when new Firmwares get released
 
-TZXduino, CASduino and ArduiTape developed by Duncan Edwards and Andrew Beer - ArduiTape home page : http://arduitape.blogspot.com/
+TZXduino, CASduino and ArduiTape developed by Duncan Edwards and Andrew Beer
